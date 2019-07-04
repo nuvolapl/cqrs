@@ -1,0 +1,9 @@
+/.idea/
+
+/example/var/*
+!/example/var/.gitignore
+
+/vendor/*
+!/vendor/.gitignore
+
+composer.lock
