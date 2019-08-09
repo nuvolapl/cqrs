@@ -1,4 +1,4 @@
-CQRS
+CQRS [![CircleCI](https://circleci.com/gh/nuvolapl/cqrs/tree/master.svg?style=svg)](https://circleci.com/gh/nuvolapl/cqrs/tree/master)
 ---
 CQRS abstraction for your application
 
